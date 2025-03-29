@@ -45,7 +45,7 @@ familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the LineageOS trees to build TWRP, use a command like this:
 
-    repo init -u git://github.com/edward0181/platform_manifest_twrp_lineageos -b twrp-14.1
+    repo init -u https://github.com/leefshitz2/platform_manifest_twrp_lineageos -b twrp-21.0
     
 Adding Samsung A12
 
